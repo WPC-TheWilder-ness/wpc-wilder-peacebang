@@ -36,3 +36,5 @@ You made it this far, or you skipped to the end. However the case, this is where
 In addition to resources and TODOs, I include a couple videos where I riff on hints, tips, insights, all based on my personal experience doing this from scratch, and with only a blank slate to draw lessons from.
 
 My peace offering to you is simple: It is not just the thing, but also the host of mistake-lessons I have had to suffer deeply for. Perhaps one needs to make their own mistakes, but actually I think this is a deep-bullshit mantra we have fallen into valuing somehow as 'parental wisdom'. The real take is more like, parents are notoriously bad at their job. That's ok (I am no parent so not one to judge) but in our context here, it is a strictly unnecessary appeal to learning by suffering. So we reject that.
+
+[[ UNDER CONSTRUCTION ]]
