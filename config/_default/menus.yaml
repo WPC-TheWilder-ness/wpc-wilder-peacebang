@@ -1,28 +1,25 @@
 main:
-  - name: HOME
+  - name: 'HOME'
     url: 'https://apx.wilder.wp.computer'
     weight: 1
-  - name: WAR
-    url: 'https://disclaimerwarning.wilder.wp.computer'
+  - name: 'TIME MACHINE FOR PEACE'
+    url: 'https://tmfp.wilder.wp.computer'
     weight: 2
-  - name: THI
-    url: 'https://thehumanimperative.wilder.wp.computer'
+  - name: 'THE HUMAN IMPERATIVE'
+    url: 'https://thi.wilder.wp.computer'
     weight: 3
-  - name: CPB
-    url: 'https://corepeacebias.wilder.wp.computer'
+  - name: 'GENERAL PEACE DYNAMICS'
+    url: 'https://gpd.wilder.wp.computer'
     weight: 4
-  - name: PLF
-    url: 'https://peacelinguafranca.wilder.wp.computer'
+  - name: 'CONVERSATION SENSE'
+    url: 'https://convo.wilder.wp.computer'
     weight: 5
-  - name: GPD 
-    url: 'https://generalpeacedynamics.wilder.wp.computer'
+  - name: 'GO!'
+    url: 'https://go.wilder.wp.computer'
     weight: 6
-  - name: CGPS 
-    url: 'https://computationalglobalpeacesystem.wilder.wp.computer'
+  - name: 'WILDER X AURORA'
+    url: 'https://wxa.wilder.wp.computer'
     weight: 7
-  - name: TMFP 
-    url: 'https://timemachineforpeace.wilder.wp.computer'
+  - name: 'LUWXAA DIRECTORY'
+    url: 'https://build.wilder.wp.computer'
     weight: 8
-  - name: CONVO
-    url: 'https://conversation.wilder.wp.computer'
-    weight: 9
