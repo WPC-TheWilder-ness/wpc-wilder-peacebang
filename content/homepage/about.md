@@ -1,7 +1,7 @@
 ---
 title: GO.
 draft: false
-avatar: images/peacebangicon.png
+avatar: images/FUCKITBRIGHT.png
 bio: ...build a world piece computer.
 
 weight: 1
